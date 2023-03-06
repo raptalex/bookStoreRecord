@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBkF4iE2QWVn7R8jfnV/rjufII0LZnku4XfLHbrhMwXqpcSjTKNOdqRPBcaf9uAjWQw3gUOgRr9h+1N5w88h1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arapt\\Desktop\\programming\\misc\\dpmxtract\\bookStoreRecord\\bookStoreRecord\\bookStoreRecord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
